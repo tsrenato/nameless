@@ -1,0 +1,21 @@
+{
+  "name": "nameless",
+  "displayName": "nameless",
+  "description": "Dark theme for VSCode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nameless",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Nameless-color-theme.json"
+      }
+    ]
+  }
+}
