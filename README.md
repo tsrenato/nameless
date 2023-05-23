@@ -1,16 +1,7 @@
-# nameless README
+# nameless
 
-## Working with Markdown
+My self-made personal favourite dark theme for VSCode.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+After installation just combo `Ctrl + K` with `Ctrl + T` and select the nameless option.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+Icon made by [rucanikon](https://www.flaticon.com/authors/rukanicon)

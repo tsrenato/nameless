@@ -1,8 +1,10 @@
 {
   "name": "nameless",
   "displayName": "nameless",
+  "icon": "images/icon.png",
   "description": "Dark theme for VSCode",
-  "version": "0.0.1",
+  "version": "1.0.1",
+  "publisher": "tsrenato",
   "engines": {
     "vscode": "^1.78.0"
   },
@@ -17,5 +19,9 @@
         "path": "./themes/Nameless-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tsrenato/nameless"
   }
 }
