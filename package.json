@@ -3,7 +3,7 @@
   "displayName": "nameless",
   "icon": "images/icon.png",
   "description": "Dark theme for VSCode",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "publisher": "tsrenato",
   "engines": {
     "vscode": "^1.78.0"
